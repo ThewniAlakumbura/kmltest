@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" >
+    <Document id="1033">
+        <Placemark id="1035">
+            <name>NC 1832 - GGA002/000</name>
+            <Point id="1034">
+                <coordinates>80.09979800000001,6.143741000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1037">
+            <name>NC 1819 - GGA002/001</name>
+            <Point id="1036">
+                <coordinates>80.099842,6.143596000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1039">
+            <name>NC 251 - GGA002/001/1</name>
+            <Point id="1038">
+                <coordinates>80.100021,6.14353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>NC 235 - GGA002/001/2</name>
+            <Point id="1040">
+                <coordinates>80.100201,6.143451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1043">
+            <name>NC 900 - GGA002/001/3</name>
+            <Point id="1042">
+                <coordinates>80.10039999999999,6.143293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1045">
+            <name>NC 895 - GGA002/001/4</name>
+            <Point id="1044">
+                <coordinates>80.100449,6.143086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>NC 841 - GGA002/001/5</name>
+            <Point id="1046">
+                <coordinates>80.100526,6.142972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1049">
+            <name>NC 1976 - GGA002/001/6</name>
+            <Point id="1048">
+                <coordinates>80.100737,6.142633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1051">
+            <name>NC 2002 - GGA002/001/6/1</name>
+            <Point id="1050">
+                <coordinates>80.101134,6.142743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>NC 778 - 6.7m</name>
+            <Point id="1052">
+                <coordinates>80.100955,6.142263999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1055">
+            <name>NES 715 - 6.7m</name>
+            <Point id="1054">
+                <coordinates>80.101062,6.142104999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>NC 908 - 6.7m</name>
+            <Point id="1056">
+                <coordinates>80.101297,6.142099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>NC 211 - GGA002/002</name>
+            <Point id="1058">
+                <coordinates>80.099867,6.143235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>NC 206 - GGA002/003</name>
+            <Point id="1060">
+                <coordinates>80.099767,6.143002999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>NC 1831 - GGA002/004</name>
+            <Point id="1062">
+                <coordinates>80.099828,6.142833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>NC 1833 - GGA002/005</name>
+            <Point id="1064">
+                <coordinates>80.09984,6.142501000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>NC 1885 - GGA002/006</name>
+            <Point id="1066">
+                <coordinates>80.099726,6.142189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>NC 2063 - GGA002/007</name>
+            <Point id="1068">
+                <coordinates>80.09967,6.142002000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>NC 1977 GGA002/008</name>
+            <Point id="1070">
+                <coordinates>80.099564,6.141631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>NC 1933 GGA002/009</name>
+            <Point id="1072">
+                <coordinates>80.099575,6.141558000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>NC 1825 - GGA002/010</name>
+            <Point id="1074">
+                <coordinates>80.09961490000001,6.1410907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>NC-2109 - GGA002/011</name>
+            <Point id="1076">
+                <coordinates>80.099681,6.140864000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>NC 215 - GGA002/012</name>
+            <Point id="1078">
+                <coordinates>80.09978700000001,6.140522000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>NC 1994 - GGA002/012/1</name>
+            <Point id="1080">
+                <coordinates>80.100047,6.140551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>NC 1995 - GGA002/012/2</name>
+            <Point id="1082">
+                <coordinates>80.100464,6.140617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1085">
+            <name>NC 1991 - GGA002/012/3</name>
+            <Point id="1084">
+                <coordinates>80.10088,6.140684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1087">
+            <name>NC 2095 - GGA002/012/4</name>
+            <Point id="1086">
+                <coordinates>80.10116840000001,6.1407507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>NC 2092 - GGA002/012/5</name>
+            <Point id="1088">
+                <coordinates>80.101631,6.1407683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1091">
+            <name>NC 2086 - GGA002/012/6</name>
+            <Point id="1090">
+                <coordinates>80.10195899999999,6.1407287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1093">
+            <name>NC 2081 - GGA002/012/7</name>
+            <Point id="1092">
+                <coordinates>80.10230060000001,6.1406653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>NC 2082 - GGA002/012/8</name>
+            <Point id="1094">
+                <coordinates>80.1026239,6.140602699999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <name>NC 2069 - GGA002/012/9</name>
+            <Point id="1096">
+                <coordinates>80.10291429999999,6.140564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1099">
+            <name>NC 2088 - GGA002/012/10</name>
+            <Point id="1098">
+                <coordinates>80.103167,6.140466300000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>NC 2062 - GGA002/012/11</name>
+            <Point id="1100">
+                <coordinates>80.1034628,6.1402587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1103">
+            <name>NC 2110 - GGA002/012/12</name>
+            <Point id="1102">
+                <coordinates>80.10365349999999,6.140108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1105">
+            <name>NC 2117 - GGA002/012/13</name>
+            <Point id="1104">
+                <coordinates>80.1038345,6.1399737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>NC 2102 - GGA002/012/14</name>
+            <Point id="1106">
+                <coordinates>80.1041642,6.139792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1109">
+            <name>NC 2097 - GGA002/012/15</name>
+            <Point id="1108">
+                <coordinates>80.1044516,6.1396723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1111">
+            <name>NC 1928 - GGA002/012/16</name>
+            <Point id="1110">
+                <coordinates>80.10486830000001,6.1395657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>NC 1996 - GGA002/012/17</name>
+            <Point id="1112">
+                <coordinates>80.105143,6.139540700000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1115">
+            <name>NC 1963 - GGA002/012/18</name>
+            <Point id="1114">
+                <coordinates>80.1054786,6.1394657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1117">
+            <name>NC 1945 - GGA002/012/19</name>
+            <Point id="1116">
+                <coordinates>80.105778,6.1394917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1119">
+            <name>NC 1926 - GGA002/012/20</name>
+            <Point id="1118">
+                <coordinates>80.1061466,6.1395057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1121">
+            <name>NC 252 - 9m</name>
+            <Point id="1120">
+                <coordinates>80.1062838,6.139402715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1123">
+            <name>NC 1964 - GGA002/012/21</name>
+            <Point id="1122">
+                <coordinates>80.10647,6.1395347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1125">
+            <name>NC 1939 - GGA002/012/22</name>
+            <Point id="1124">
+                <coordinates>80.106915,6.139610999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1127">
+            <name>NC 1934 - GGA002/012/23</name>
+            <Point id="1126">
+                <coordinates>80.10731,6.139648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1129">
+            <name>NC 1920 - GGA002/012/24</name>
+            <Point id="1128">
+                <coordinates>80.10766700000001,6.139659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1131">
+            <name>NC 2055 - GGA002/012/25</name>
+            <Point id="1130">
+                <coordinates>80.108051,6.139703000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1133">
+            <name>NC 2049 - GGA002/012/26</name>
+            <Point id="1132">
+                <coordinates>80.108458,6.139733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1135">
+            <name>NC 1958 - GGA002/012/27</name>
+            <Point id="1134">
+                <coordinates>80.10880400000001,6.139774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1137">
+            <name>NC 1972 - GGA002/012/28</name>
+            <Point id="1136">
+                <coordinates>80.109106,6.139688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1139">
+            <name>NC 1935 - GGA002/012/29</name>
+            <Point id="1138">
+                <coordinates>80.10949599999999,6.139579999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1141">
+            <name>NC 1986 - GGA002/012/30</name>
+            <Point id="1140">
+                <coordinates>80.10983299999999,6.139485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1143">
+            <name>NC 2020 - GGA002/012/31</name>
+            <Point id="1142">
+                <coordinates>80.110139,6.139406000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1145">
+            <name>NC 1992 - GGA002/012/32</name>
+            <Point id="1144">
+                <coordinates>80.11045,6.139286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1147">
+            <name>NC 1998 - GGA002/012/33</name>
+            <Point id="1146">
+                <coordinates>80.110658,6.139211000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1149">
+            <name>NC 1927 - GGA002/012/34</name>
+            <Point id="1148">
+                <coordinates>80.11093200000001,6.13909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1151">
+            <name>NC 2019 - GGA002/012/35</name>
+            <Point id="1150">
+                <coordinates>80.111232,6.138967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1153">
+            <name>NC 2014 - GGA002/012/36</name>
+            <Point id="1152">
+                <coordinates>80.11151599999999,6.138831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1155">
+            <name>NC 1982 - GGA002/012/37</name>
+            <Point id="1154">
+                <coordinates>80.111846,6.138695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1157">
+            <name>NC 1979 - GGA002/012/38</name>
+            <Point id="1156">
+                <coordinates>80.112182,6.138577000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1159">
+            <name>NC 1967 - GGA002/012/39</name>
+            <Point id="1158">
+                <coordinates>80.11245,6.138435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1161">
+            <name>NC 1947 - GGA002/012/40</name>
+            <Point id="1160">
+                <coordinates>80.11281,6.138287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1163">
+            <name>NC 1944 - GGA002/012/41</name>
+            <Point id="1162">
+                <coordinates>80.113112,6.138144000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1165">
+            <name>NC 1978 - GGA002/012/42</name>
+            <Point id="1164">
+                <coordinates>80.11348,6.138035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1167">
+            <name>NC 1921 - GGA002/012/43</name>
+            <Point id="1166">
+                <coordinates>80.11390299999999,6.137901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1169">
+            <name>NC 1951 - GGA002/012/44</name>
+            <Point id="1168">
+                <coordinates>80.114237,6.13782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1171">
+            <name>NC 1955 - GGA002/012/45</name>
+            <Point id="1170">
+                <coordinates>80.114548,6.137751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1173">
+            <name>NC 1962 - GGA002/012/46</name>
+            <Point id="1172">
+                <coordinates>80.11485999999999,6.137710000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1175">
+            <name>NC 1943 - GGA002/012/47</name>
+            <Point id="1174">
+                <coordinates>80.115183,6.137710999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1177">
+            <name>NC 1937 - GGA002/012/48</name>
+            <Point id="1176">
+                <coordinates>80.11545700000001,6.137791999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1179">
+            <name>NC 1941 - GGA002/012/49</name>
+            <Point id="1178">
+                <coordinates>80.1158334,6.1379223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1181">
+            <name>NC 1936 - GGA002/012/50</name>
+            <Point id="1180">
+                <coordinates>80.1161074,6.1380473,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1183">
+            <name>NC 1933 - GGA002/012/51</name>
+            <Point id="1182">
+                <coordinates>80.11640939999999,6.1382297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1185">
+            <name>NC 1981 - 8m</name>
+            <Point id="1184">
+                <coordinates>80.11648599999999,6.13834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1187">
+            <name>NC 2000 - GGA002/012/52</name>
+            <Point id="1186">
+                <coordinates>80.1167775,6.1383883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1189">
+            <name>NC 1942 - GGA002/012/53</name>
+            <Point id="1188">
+                <coordinates>80.11709639999999,6.1384873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1191">
+            <name>NC 1990 - GGA002/012/54</name>
+            <Point id="1190">
+                <coordinates>80.117402,6.138527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1193">
+            <name>NC 2011 - GGA002/012/55</name>
+            <Point id="1192">
+                <coordinates>80.1177938,6.1385853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1195">
+            <name>NC 1952 - GGA002/012/56</name>
+            <Point id="1194">
+                <coordinates>80.1180804,6.1386617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1197">
+            <name>NC 876 - GGA002/012/56/1</name>
+            <Point id="1196">
+                <coordinates>80.117983,6.138994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1199">
+            <name>NC 2018 - GGA002/012/56/2</name>
+            <Point id="1198">
+                <coordinates>80.117881,6.139216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1201">
+            <name>NC 867 - GGA002/012/56/3</name>
+            <Point id="1200">
+                <coordinates>80.1182613,6.1392717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1203">
+            <name>NC 728 - GGA002/012/56/4</name>
+            <Point id="1202">
+                <coordinates>80.1186687,6.139316300000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1205">
+            <name>NC 720 - GGA002/012/56/5</name>
+            <Point id="1204">
+                <coordinates>80.118808,6.139398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1207">
+            <name>NC 863 - GGA002/012/56/6</name>
+            <Point id="1206">
+                <coordinates>80.1190098,6.139452699999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1209">
+            <name>NC 727 - GGA002/012/56/7</name>
+            <Point id="1208">
+                <coordinates>80.11920240000001,6.1395007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1211">
+            <name>NC 880 - GGA002/012/56/8</name>
+            <Point id="1210">
+                <coordinates>80.11946140000001,6.139653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1213">
+            <name>NC 869 - GGA002/012/56/8/1</name>
+            <Point id="1212">
+                <coordinates>80.119343,6.139973000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1215">
+            <name>NC 724 - GGA002/012/56/8/2</name>
+            <Point id="1214">
+                <coordinates>80.119221,6.140325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1217">
+            <name>NC 849 - GGA002/012/56/8/3</name>
+            <Point id="1216">
+                <coordinates>80.1191,6.140595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1219">
+            <name>NC 723 - GGA002/012/56/8/4</name>
+            <Point id="1218">
+                <coordinates>80.118922,6.14081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1221">
+            <name>NC 854 - GGA002/012/56/8/5</name>
+            <Point id="1220">
+                <coordinates>80.11868200000001,6.140907000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1223">
+            <name>NC 722 - GGA002/012/56/8/6</name>
+            <Point id="1222">
+                <coordinates>80.118669,6.141183999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1225">
+            <name>NC 848 - GGA002/012/56/8/7</name>
+            <Point id="1224">
+                <coordinates>80.118645,6.141432999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1227">
+            <name>NC 857 - GGA002/012/56/8/8</name>
+            <Point id="1226">
+                <coordinates>80.11868200000001,6.141638999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <name>NC 847 - GGA002/012/56/8/9</name>
+            <Point id="1228">
+                <coordinates>80.11851799999999,6.141752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1231">
+            <name>NC 783 - GGA002/012/56/8/10</name>
+            <Point id="1230">
+                <coordinates>80.11829299999999,6.141736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1233">
+            <name>NC 736 - 6.7m</name>
+            <Point id="1232">
+                <coordinates>80.117966,6.141729000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1235">
+            <name>NC 717 - 6.7m</name>
+            <Point id="1234">
+                <coordinates>80.117796,6.141726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1237">
+            <name>NC 855 - 6.7m</name>
+            <Point id="1236">
+                <coordinates>80.11784400000001,6.141495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1239">
+            <name>NC 208 - GGA002/013</name>
+            <Point id="1238">
+                <coordinates>80.099609,6.140513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1241">
+            <name>NC 2120 - GGA002/014</name>
+            <Point id="1240">
+                <coordinates>80.099672,6.140249000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1243">
+            <name>NC 1859 - GGA002/015</name>
+            <Point id="1242">
+                <coordinates>80.09963500000001,6.139949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1245">
+            <name>NC 1824 - GGA002/016</name>
+            <Point id="1244">
+                <coordinates>80.09957300000001,6.139673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1247">
+            <name>NC 217 - GGA002/017</name>
+            <Point id="1246">
+                <coordinates>80.099531,6.139458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1249">
+            <name>NC 246 - GGA002/017/1</name>
+            <Point id="1248">
+                <coordinates>80.099734,6.139441000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1251">
+            <name>NC 1969 - GGA002/017/2</name>
+            <Point id="1250">
+                <coordinates>80.09993799999999,6.139394999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1253">
+            <name>NC 250 - GGA002/017/3</name>
+            <Point id="1252">
+                <coordinates>80.100206,6.139370000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1255">
+            <name>NC 245 - GGA002/017/4</name>
+            <Point id="1254">
+                <coordinates>80.10037800000001,6.139365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1257">
+            <name>NC 1960 - GGA002/017/5</name>
+            <Point id="1256">
+                <coordinates>80.100568,6.139383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1259">
+            <name>NC 1961 - GGA002/017/6</name>
+            <Point id="1258">
+                <coordinates>80.100737,6.139538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1261">
+            <name>NC 1958 - GGA002/017/7</name>
+            <Point id="1260">
+                <coordinates>80.101056,6.139564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1263">
+            <name>NC 2115 - GGA002/018</name>
+            <Point id="1262">
+                <coordinates>80.099473,6.139219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1265">
+            <name>NC 1823 - GGA002/019</name>
+            <Point id="1264">
+                <coordinates>80.099574,6.13874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1267">
+            <name>NC 2118 - GGA002/020</name>
+            <Point id="1266">
+                <coordinates>80.099603,6.13851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1269">
+            <name>NC 220 - GGA002/021</name>
+            <Point id="1268">
+                <coordinates>80.09961300000001,6.138313999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1271">
+            <name>NC 1839 - GGA002/022</name>
+            <Point id="1270">
+                <coordinates>80.099621,6.138045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1273">
+            <name>NC 1965 - GGA002/023</name>
+            <Point id="1272">
+                <coordinates>80.099795,6.13793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1275">
+            <name>NC 1820 - GGA002/024</name>
+            <Point id="1274">
+                <coordinates>80.099654,6.137676999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1277">
+            <name>NC 1860 - GGA002/025</name>
+            <Point id="1276">
+                <coordinates>80.09966300000001,6.137343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1279">
+            <name>NC 1867 - GGA002/026</name>
+            <Point id="1278">
+                <coordinates>80.099716,6.137037000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1281">
+            <name>NC 241 - GGA002/027</name>
+            <Point id="1280">
+                <coordinates>80.099733,6.136809000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1283">
+            <name>NC 242 - GGA002/028</name>
+            <Point id="1282">
+                <coordinates>80.099932,6.136794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1285">
+            <name>NC 1851 - GGA002/029</name>
+            <Point id="1284">
+                <coordinates>80.099943,6.136401999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1287">
+            <name>NC 1855 - GGA002/030</name>
+            <Point id="1286">
+                <coordinates>80.099986,6.136205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1289">
+            <name>NC 209 - GGA002/031</name>
+            <Point id="1288">
+                <coordinates>80.099993,6.135935999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1291">
+            <name>NC 219 - GGA002/032</name>
+            <Point id="1290">
+                <coordinates>80.09990500000001,6.1356,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1293">
+            <name>NC 1950 - GGA002/033</name>
+            <Point id="1292">
+                <coordinates>80.09995600000001,6.1351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1295">
+            <name>NC 1849 - GGA002/034</name>
+            <Point id="1294">
+                <coordinates>80.099976,6.134874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1297">
+            <name>NC 1848 - GGA002/035</name>
+            <Point id="1296">
+                <coordinates>80.100039,6.134657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1299">
+            <name>NC 1847 - GGA002/036</name>
+            <Point id="1298">
+                <coordinates>80.100195,6.134246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1301">
+            <name>NC 1875 - GGA002/037</name>
+            <Point id="1300">
+                <coordinates>80.100342,6.133885000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1303">
+            <name>0043 (1 EXP)</name>
+            <Point id="1302">
+                <coordinates>80.10048084,6.133913026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1305">
+            <name>0042 (2 EXP)</name>
+            <Point id="1304">
+                <coordinates>80.10069374,6.133899025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1307">
+            <name>0041 (3 EXP)</name>
+            <Point id="1306">
+                <coordinates>80.10092877,6.133767683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1309">
+            <name>0019 (4 EXP)</name>
+            <Point id="1308">
+                <coordinates>80.101086,6.133807999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1311">
+            <name>0023 (5 EXP)</name>
+            <Point id="1310">
+                <coordinates>80.1014978,6.1341123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1313">
+            <name>0074 (6 EXP)</name>
+            <Point id="1312">
+                <coordinates>80.1015931,6.1342033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1315">
+            <name>0097 (7 EXP)</name>
+            <Point id="1314">
+                <coordinates>80.1016892,6.1343097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1317">
+            <name>0066 (8 EXP)</name>
+            <Point id="1316">
+                <coordinates>80.10193169999999,6.134398699999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1319">
+            <name>0101 (9 EXP)</name>
+            <Point id="1318">
+                <coordinates>80.1020729,6.134467398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1321">
+            <name>0075 (10 EXP)</name>
+            <Point id="1320">
+                <coordinates>80.102214,6.134578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1323">
+            <name>0058 (11 EXP)</name>
+            <Point id="1322">
+                <coordinates>80.10244019,6.134663744999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1325">
+            <name>0067 (12 EXP)</name>
+            <Point id="1324">
+                <coordinates>80.10295499999999,6.134603000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1327">
+            <name>NC 221 - GGA002/038</name>
+            <Point id="1326">
+                <coordinates>80.100388,6.133614000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1329">
+            <name>NC 212 - GGA002/039</name>
+            <Point id="1328">
+                <coordinates>80.100611,6.133503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1331">
+            <name>NC 1822 - GGA002/040</name>
+            <Point id="1330">
+                <coordinates>80.1007168,6.133216300000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1333">
+            <name>NC 225 - GGA002/041</name>
+            <Point id="1332">
+                <coordinates>80.100848,6.132914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1335">
+            <name>NC 214 - GGA002/042</name>
+            <Point id="1334">
+                <coordinates>80.10077699999999,6.132758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1337">
+            <name>NC 1938 - GGA002/043</name>
+            <Point id="1336">
+                <coordinates>80.100942,6.132367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1339">
+            <name>NC 1925 - GGA002/044</name>
+            <Point id="1338">
+                <coordinates>80.1010536,6.1321287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1341">
+            <name>NC 1931 - GGA002/045</name>
+            <Point id="1340">
+                <coordinates>80.101266,6.131781999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1343">
+            <name>NC 244 - GGA002/046</name>
+            <Point id="1342">
+                <coordinates>80.101365,6.131553000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1345">
+            <name>NC 1822 - GGA002/047</name>
+            <Point id="1344">
+                <coordinates>80.1015979,6.1313993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1347">
+            <name>NC 1975 - GGA002/047/1</name>
+            <Point id="1346">
+                <coordinates>80.101685,6.131713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1349">
+            <name>NC 229 - GGA002/047/2</name>
+            <Point id="1348">
+                <coordinates>80.101837,6.131987999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1351">
+            <name>NC 243 - GGA002/047/3</name>
+            <Point id="1350">
+                <coordinates>80.10189,6.132121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1353">
+            <name>NC 845 - GGA002/047/4</name>
+            <Point id="1352">
+                <coordinates>80.10202099999999,6.132349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1355">
+            <name>NC 213 - GGA002/048</name>
+            <Point id="1354">
+                <coordinates>80.1017282,6.13104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1357">
+            <name>NC 1890 - GGA002/049</name>
+            <Point id="1356">
+                <coordinates>80.1018919,6.1307873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1359">
+            <name>NC 1821 - GGA002/050</name>
+            <Point id="1358">
+                <coordinates>80.1020723,6.1305907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1361">
+            <name>NC 1883 - GGA002/051</name>
+            <Point id="1360">
+                <coordinates>80.10230730000001,6.1303753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1363">
+            <name>NC 1891 - GGA002/052</name>
+            <Point id="1362">
+                <coordinates>80.102591,6.13017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1365">
+            <name>NC 1878 - GGA002/053</name>
+            <Point id="1364">
+                <coordinates>80.10283509999999,6.1299647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1367">
+            <name>NC 1906 - GGA002/054</name>
+            <Point id="1366">
+                <coordinates>80.10309410000001,6.129742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1369">
+            <name>NC 239 - GGA002/055</name>
+            <Point id="1368">
+                <coordinates>80.103438,6.129363,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1371">
+            <name>NC 1966 - GGA002/056</name>
+            <Point id="1370">
+                <coordinates>80.1037388,6.1289913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1373">
+            <name>NC 236 - GGA002/057</name>
+            <Point id="1372">
+                <coordinates>80.10390390000001,6.128768299999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1375">
+            <name>NC 1957 - GGA002/058</name>
+            <Point id="1374">
+                <coordinates>80.104045,6.1286077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1377">
+            <name>NC 218 - GGA002/059</name>
+            <Point id="1376">
+                <coordinates>80.1042334,6.128401000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1379">
+            <name>NC 1856 - GGA002/060</name>
+            <Point id="1378">
+                <coordinates>80.1043949,6.1282703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1381">
+            <name>NC 1899 - GGA002/061</name>
+            <Point id="1380">
+                <coordinates>80.1046025,6.1281373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1383">
+            <name>NC 2016 - GGA002/061/1</name>
+            <Point id="1382">
+                <coordinates>80.10467370000001,6.128451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1385">
+            <name>NC 2007 - GGA002/061/2</name>
+            <Point id="1384">
+                <coordinates>80.1048746,6.128582700000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1387">
+            <name>NC 211 - GGA002/061/3</name>
+            <Point id="1386">
+                <coordinates>80.105052,6.128909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1389">
+            <name>NC 223 - GGA002/061/4</name>
+            <Point id="1388">
+                <coordinates>80.10511200000001,6.129087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1391">
+            <name>NC 734 - 6.7m</name>
+            <Point id="1390">
+                <coordinates>80.105318,6.129447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1393">
+            <name>NC 1892 - GGA002/062</name>
+            <Point id="1392">
+                <coordinates>80.1048699,6.1279167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1395">
+            <name>NC 1940 - GGA002/063</name>
+            <Point id="1394">
+                <coordinates>80.105166,6.127683999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1397">
+            <name>NC 2017 - GGA002/064</name>
+            <Point id="1396">
+                <coordinates>80.105459,6.127443000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1399">
+            <name>NC 1868 - GGA002/065</name>
+            <Point id="1398">
+                <coordinates>80.1056679,6.12727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1401">
+            <name>NC 1870 - GGA002/066</name>
+            <Point id="1400">
+                <coordinates>80.106009,6.126981300000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1403">
+            <name>NC 1866 - GGA002/067</name>
+            <Point id="1402">
+                <coordinates>80.106289,6.126752999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1405">
+            <name>NC 1898 - GGA002/068</name>
+            <Point id="1404">
+                <coordinates>80.10662600000001,6.126544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1407">
+            <name>NC 1900 - GGA002/069</name>
+            <Point id="1406">
+                <coordinates>80.1069236,6.126341000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1409">
+            <name>NC 1869 - GGA002/070</name>
+            <Point id="1408">
+                <coordinates>80.1071635,6.1261703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1411">
+            <name>NC 1845 - GGA002/071</name>
+            <Point id="1410">
+                <coordinates>80.10745,6.125981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1413">
+            <name>NC 1910 - GGA002/072</name>
+            <Point id="1412">
+                <coordinates>80.10779599999999,6.125767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1415">
+            <name>NC 1918 - GGA002/073</name>
+            <Point id="1414">
+                <coordinates>80.108086,6.125584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1417">
+            <name>NC 291 - GGA002/074</name>
+            <Point id="1416">
+                <coordinates>80.108456,6.125471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1419">
+            <name>NC 1834 - GGA002/075</name>
+            <Point id="1418">
+                <coordinates>80.1087788,6.1253453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1421">
+            <name>NC 203 - GGA002/076</name>
+            <Point id="1420">
+                <coordinates>80.1090473,6.1252443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1423">
+            <name>NC 1912 - GGA002/077</name>
+            <Point id="1422">
+                <coordinates>80.1094195,6.125077999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1425">
+            <name>NC 1984 - GGA002/078</name>
+            <Point id="1424">
+                <coordinates>80.10970210000001,6.1249153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1427">
+            <name>NC 1835 - GGA002/079</name>
+            <Point id="1426">
+                <coordinates>80.1100301,6.124724700000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1429">
+            <name>NC 204 - GGA002/080</name>
+            <Point id="1428">
+                <coordinates>80.1103258,6.1245587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1431">
+            <name>NC 1841 - GGA002/081</name>
+            <Point id="1430">
+                <coordinates>80.1106482,6.1243787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1433">
+            <name>NC 1827 - GGA002/082</name>
+            <Point id="1432">
+                <coordinates>80.1109522,6.124215299999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1435">
+            <name>NC 1826 - GGA002/083</name>
+            <Point id="1434">
+                <coordinates>80.111285,6.124058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1437">
+            <name>NC 207 - GGA002/084</name>
+            <Point id="1436">
+                <coordinates>80.11156800000001,6.123906999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1439">
+            <name>NC 2100 - GGA002/085</name>
+            <Point id="1438">
+                <coordinates>80.11196200000001,6.123689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1441">
+            <name>NC 1828 - GGA002/086</name>
+            <Point id="1440">
+                <coordinates>80.112227,6.123551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1443">
+            <name>NC 1861 - GGA002/087</name>
+            <Point id="1442">
+                <coordinates>80.11251799999999,6.123377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1445">
+            <name>NC 226 - GGA002/088</name>
+            <Point id="1444">
+                <coordinates>80.11278,6.123213000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1447">
+            <name>NC 238 - GGA002/089</name>
+            <Point id="1446">
+                <coordinates>80.1127645,6.1230447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1449">
+            <name>NC 1850 - GGA002/090</name>
+            <Point id="1448">
+                <coordinates>80.112961,6.122903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1451">
+            <name>NC 1840 - GGA002/091</name>
+            <Point id="1450">
+                <coordinates>80.11320600000001,6.122676000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1453">
+            <name>NC 1924 - GGA002/092</name>
+            <Point id="1452">
+                <coordinates>80.113466,6.122462999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1455">
+            <name>NC 1923 - GGA002/093</name>
+            <Point id="1454">
+                <coordinates>80.1137645,6.122235300000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1457">
+            <name>NC 1983 - GGA002/094</name>
+            <Point id="1456">
+                <coordinates>80.1139972,6.122072699999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1459">
+            <name>NC 1946 - GGA002/095</name>
+            <Point id="1458">
+                <coordinates>80.114339,6.121825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1461">
+            <name>NC 222 - GGA002/096</name>
+            <Point id="1460">
+                <coordinates>80.1145271,6.121671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1463">
+            <name>NC 210 - GGA002/096/1</name>
+            <Point id="1462">
+                <coordinates>80.1147062,6.12172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1465">
+            <name>NC 233 - GGA002/096/2</name>
+            <Point id="1464">
+                <coordinates>80.114929,6.121854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1467">
+            <name>NC 230 - GGA002/096/3</name>
+            <Point id="1466">
+                <coordinates>80.115019,6.121948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1469">
+            <name>NC 827 - GGA002/096/4</name>
+            <Point id="1468">
+                <coordinates>80.115257,6.122079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1471">
+            <name>NC 861 - GGA002/096/5</name>
+            <Point id="1470">
+                <coordinates>80.11562000000001,6.122199999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1473">
+            <name>NC 860 - GGA002/096/6</name>
+            <Point id="1472">
+                <coordinates>80.115909,6.122346000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1475">
+            <name>NC 846 - GGA002/096/7</name>
+            <Point id="1474">
+                <coordinates>80.11606500000001,6.122389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1477">
+            <name>NC 853 - 6.7m</name>
+            <Point id="1476">
+                <coordinates>80.116494,6.122483000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1479">
+            <name>NC 1974 - GGA002/097</name>
+            <Point id="1478">
+                <coordinates>80.11473599999999,6.12148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1481">
+            <name>NC 1973 - GGA002/098</name>
+            <Point id="1480">
+                <coordinates>80.11493,6.121210999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1483">
+            <name>NC 1909 - GGA002/099</name>
+            <Point id="1482">
+                <coordinates>80.11515660000001,6.1208947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1485">
+            <name>NC 1953 - GGA002/100</name>
+            <Point id="1484">
+                <coordinates>80.115306,6.120669,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1487">
+            <name>NC 1968 - GGA002/101</name>
+            <Point id="1486">
+                <coordinates>80.115503,6.120388999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1489">
+            <name>NC 1980 - GGA002/102</name>
+            <Point id="1488">
+                <coordinates>80.11572099999999,6.120074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1491">
+            <name>NC 2003 - GGA002/103</name>
+            <Point id="1490">
+                <coordinates>80.115796,6.119973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1493">
+            <name>NC 1949 - GGA002/104</name>
+            <Point id="1492">
+                <coordinates>80.115936,6.119746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1495">
+            <name>NC 1954 - GGA002/105</name>
+            <Point id="1494">
+                <coordinates>80.116117,6.119497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1497">
+            <name>NC 205 - GGA002/106</name>
+            <Point id="1496">
+                <coordinates>80.11630700000001,6.119206999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1499">
+            <name>NC 2009 - GGA002/107</name>
+            <Point id="1498">
+                <coordinates>80.116561,6.118842000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1501">
+            <name>NC 1930 - GGA002/108</name>
+            <Point id="1500">
+                <coordinates>80.116754,6.118505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1503">
+            <name>NC 248 - GGA002/109</name>
+            <Point id="1502">
+                <coordinates>80.11630700000001,6.119206999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1505">
+            <name>NC 1932 - GGA002/110</name>
+            <Point id="1504">
+                <coordinates>80.1171118,6.117930000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1507">
+            <name>NC 2005 - GGA002/111</name>
+            <Point id="1506">
+                <coordinates>80.11690950000001,6.118249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1509">
+            <name>NC 1929 - GGA002/112</name>
+            <Point id="1508">
+                <coordinates>80.117526,6.117521000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1511">
+            <name>NC 252 - GGA002/113</name>
+            <Point id="1510">
+                <coordinates>80.11781499999999,6.117325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1513">
+            <name>NC 2004 - GGA002/114</name>
+            <Point id="1512">
+                <coordinates>80.118072,6.117146999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1515">
+            <name>NC 1959 - GGA002/115</name>
+            <Point id="1514">
+                <coordinates>80.11835499999999,6.116934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1517">
+            <name>NC 1989 - GGA002/116</name>
+            <Point id="1516">
+                <coordinates>80.11862499999999,6.116676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1519">
+            <name>NC 1922 - GGA002/117</name>
+            <Point id="1518">
+                <coordinates>80.118878,6.116445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1521">
+            <name>NC 2001 - GGA002/118</name>
+            <Point id="1520">
+                <coordinates>80.11917800000001,6.116163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1523">
+            <name>NC 1987 - GGA002/119</name>
+            <Point id="1522">
+                <coordinates>80.1194332,6.115927999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1525">
+            <name>NC 2010 - GGA002/120</name>
+            <Point id="1524">
+                <coordinates>80.119741,6.115639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1527">
+            <name>NC 1999 - GGA002/121</name>
+            <Point id="1526">
+                <coordinates>80.12008299999999,6.115371000000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1529">
+            <name>NC 2006 - GGA002/122</name>
+            <Point id="1528">
+                <coordinates>80.120367,6.115108999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1531">
+            <name>NC 2012 - GGA002/123</name>
+            <Point id="1530">
+                <coordinates>80.1205452,6.114926700000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1533">
+            <name>NC 1997 - GGA002/124</name>
+            <Point id="1532">
+                <coordinates>80.120728,6.114788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1535">
+            <name>NC 1988 - GGA002/125</name>
+            <Point id="1534">
+                <coordinates>80.121011,6.114564999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1537">
+            <name>NC 2015 - GGA002/126</name>
+            <Point id="1536">
+                <coordinates>80.12129,6.11431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1539">
+            <name>NC 1985 - GGA002/127</name>
+            <Point id="1538">
+                <coordinates>80.12144499999999,6.114123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1541">
+            <name>NC 1970 - GGA002/128</name>
+            <Point id="1540">
+                <coordinates>80.121652,6.113880999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1543">
+            <name>NC 2977 - GGA002/129</name>
+            <Point id="1542">
+                <coordinates>80.121858,6.11366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1545">
+            <name>NC 2008 - GGA002/130</name>
+            <Point id="1544">
+                <coordinates>80.122182,6.11333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1547">
+            <name>NC 2013 - 8m</name>
+            <Point id="1546">
+                <coordinates>80.122365,6.113096999999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
